@@ -1,0 +1,8 @@
+baseURL = 'https://theangryblog/'
+languageCode = 'en-us'
+title = 'My angry blog'
+theme = 'Paper-Mod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
