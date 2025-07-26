@@ -1,6 +1,6 @@
 +++
 date = '2025-07-26T11:59:38+02:00'
-draft = flase
+draft = false
 title = 'The Second One'
 +++
 
